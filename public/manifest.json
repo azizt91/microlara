@@ -1,0 +1,17 @@
+{
+    "name": "MicroTik",
+    "short_name": "MicroTik",
+    "start_url": "/",
+    "background_color": "#ffffff",
+    "description": "Tutorial of Laravel Package",
+    "display": "fullscreen",
+    "theme_color": "#ffffff",
+    "icons": [
+        {
+            "src": "/template/img/logo2.png",
+            "sizes": "500x500",
+            "type": "image/png",
+            "purpose": "any maskable"
+        }
+    ]
+}
